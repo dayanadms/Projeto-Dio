@@ -14,7 +14,7 @@ e quais elementos serão mais importantes na história bem como protagonistas e 
 Utilizarei a história criada para que o gerador de imagens Leonardo AI realize uma ilustração para o livro infantil para a Capa. 
 
 ## 🚀 Resultados
-O ChatGpt criou a história de uma princesa que ao cuidar de um rouxinou percebeu a importância da liberdade. 
+O ChatGpt criou a história de uma princesa que ao cuidar de um rouxinol percebeu a importância da liberdade. 
 
 ## 💭 Reflexão (Opcional)
 O projeto é muito desafiador e com o tempo é possível realizar muitos outros projetos. 
