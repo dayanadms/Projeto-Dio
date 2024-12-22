@@ -6,14 +6,15 @@ história infantil para dormir
 Esse projeto se destina a criar uma história infantil que demonstre para crianças a importância de superar obstaculos, saber lidar com frustações e se tornar independente emocionalmente 
 
 ## 🤖 Tecnologias Utilizadas
-Para criar essa história utilizarei o CHATGPT e o gerador de imagens Bing 
+Para criar essa história utilizarei o CHATGPT e o gerador de imagens Leonardo AI 
 
 ## 🧐 Processo de Criação
 Para criar a história irei descrever meus objetivos para a IA bem como a quantidade de páginas , personagens, irei descrever os personagens, descreverei como quero o final. 
 e quais elementos serão mais importantes na história bem como protagonistas e antagonistas. 
-Utilizarei a história criada para que o gerador de imagens do Bing realizei uma ilustração para o livro infantil. 
+Utilizarei a história criada para que o gerador de imagens Leonardo AI realize uma ilustração para o livro infantil para a Capa. 
 
 ## 🚀 Resultados
-
+O ChatGpt criou a história de uma princesa que ao cuidar de um rouxinou percebeu a importância da liberdade. 
 
 ## 💭 Reflexão (Opcional)
+O projeto é muito desafiador e com o tempo é possível realizar muitos outros projetos. 
