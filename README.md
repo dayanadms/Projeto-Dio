@@ -15,6 +15,7 @@ Utilizarei a história criada para que o gerador de imagens Leonardo AI realize 
 
 ## 🚀 Resultados
 O ChatGpt criou a história de uma princesa que ao cuidar de um rouxinol percebeu a importância da liberdade. 
+LINK DO LIVRO : https://github.com/dayanadms/Projeto-Dio.git
 
 ## 💭 Reflexão (Opcional)
-O projeto é muito desafiador e com o tempo é possível realizar muitos outros projetos. 
+O projeto é muito desafiador e com o tempo é possível realizar muitos outros projetos. Esse acredito que está bastante fake, bastante evidente que foi realizado por IA. 
